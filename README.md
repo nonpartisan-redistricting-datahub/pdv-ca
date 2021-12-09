@@ -1,2 +1,2 @@
 # pdv-ca
-partner data validation for California
+Partner Data Validation for California
